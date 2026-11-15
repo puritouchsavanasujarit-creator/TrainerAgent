@@ -1,0 +1,6 @@
+{
+  "name": "Admin Sale Chat Simulator - Premium Fruit Delivery",
+  "description": "ระบบจำลองแชทฝึกอบรมแอดมินขายกระเช้าผลไม้พรีเมียม (Premium Fruit Delivery) เรียนรู้กระบวนการขาย 3 ขั้นตอน กฎ Golden Rule ค่าจัดส่งจรัญ 59 และข้อกำหนดโรงพยาบาล พร้อม AI Coach ประเมินผลสด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
